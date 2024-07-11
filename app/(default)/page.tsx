@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Dohko - The next generation of computing for a decentralized future',
+  description: 'Dohko is making verifiable machine learning accessible, secure, and cost-effective for all.',
 }
 
 import Hero from '@/components/hero'
