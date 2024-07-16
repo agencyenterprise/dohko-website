@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">The next generation of computing for a decentralized future</h2>
-            <p className="text-xl text-gray-400">Dohko is making verifiable machine learning accessible, secure, and cost-effective for all.</p>
+            <p className="text-xl text-gray-400">Dohko makes verifiable computing accessible, secure, and cost-effective for all.</p>
           </div>
 
           {/* Items */}
@@ -33,7 +33,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Rapid Proof Generation</h4>
-              <p className="text-lg text-gray-400 text-center">Generate verifiable proofs for large computational graphs in record time. Dohko's distributed prover network removes bottlenecks and unlocks verifiable ML inference.</p>
+              <p className="text-lg text-gray-400 text-center">Generate verifiable proofs for large computational graphs in record time. Dohko's distributed prover network removes bottlenecks and unlocks rapid verifiable ML inference.</p>
             </div>
 
             {/* 3rd item */}
@@ -59,8 +59,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Scalable Infrastructure</h4>
-              <p className="text-lg text-gray-400 text-center">Easily scale your computational needs from small projects to enterprise-level applications. Dohko's architecture is designed to grow with your demands.</p>
+              <h4 className="h4 mb-2">Open Source</h4>
+              <p className="text-lg text-gray-400 text-center">We&apos;re building in public and would love to have you along for the journey.</p>
             </div>
 
             {/* 5th item */}
@@ -73,7 +73,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Interoperable Design</h4>
-              <p className="text-lg text-gray-400 text-center">Seamlessly integrate Dohko with existing systems and workflows. Our platform is built to complement and enhance your current tech stack.</p>
+              <p className="text-lg text-gray-400 text-center">Seamlessly integrate Dohko with existing systems and workflows. Our platform is built to complement and enhance your current stack.</p>
             </div>
 
             {/* 6th item */}

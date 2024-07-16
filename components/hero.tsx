@@ -24,15 +24,15 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4" data-aos="fade-up">Powering the Internet of Proofs</h1>
+            <h1 className="h2 mb-4" data-aos="fade-up">Distributed Verifiable Computing</h1>
             <h1 className="h5 mb-4"></h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Earn passive income by lending your idle compute to the Dohko network. Use the network for lightning-fast ML inference verified with distributed ZK proofs.</p>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Powering the next generation of privacy-preserving applications through the world&apos;s first distributed zero-knowledge prover network.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start Earning</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Explore the Docs</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Access Compute</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Start Building</a>
               </div>
             </div>
           </div>
